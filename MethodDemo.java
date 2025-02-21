@@ -10,7 +10,7 @@ public class MethodDemo {
         System.out.println("The average is: " + result);
     }
     public static void displayWelcomeMessage() {
-        System.out.println ("welcpme to our program");
+        System.out.println ("welcome to our program");
     }
 
 
